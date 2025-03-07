@@ -28,15 +28,13 @@ Finally, <a href="http://sos2011.ecs.soton.ac.uk/">SOS 2011</a> was held as a sa
 
 The first combined EXPRESS/SOS workshop (<a href="http://www.win.tue.nl/expresssos2012/">EXPRESS/SOS 2012</a>) was co-located with CONCUR 2012 in Newcastle upon Tyne, UK and was co-chaired by Bas Luttik and Michel Reniers.
 The second combined <a href="http://www.win.tue.nl/expresssos2013/">EXPRESS/SOS 2013</a> workshop was co-located with CONCUR 2013 in Buenos Aires, Argentina and was co-chaired by Johannes Borgstr&oumlm and Bas Luttik.
-The combined <a href="http://www.math.unipd.it/~crafa/EXPRESSSOS2014/">EXPRESS/SOS 2014</a> workshop was
-co-located with CONCUR 2014 in Rome, Italy and was co-chaired by Johannes Borgstr&oumlm and Silvia Crafa.
-The next year the combined <a href="">EXPRESS/SOS 2015</a> workshop was co-located with CONCUR 2015 in Madrid,	Spain and was co-chaired by Silvia Crafa and Daniel Gebler.
-The combined <a href="http://express-sos2016.cs.vu.nl">EXPRESS/SOS 2016</a> workshop was co-located with CONCUR 2016 in Qu&eacutebec City, Canada and was co-chaired by Daniel Gebler and Kirstin Peters.
-The combined <a href="https://www.concur2017.tu-berlin.de/express_sos.html">EXPRESS/SOS 2017</a> workshop was
-co-located with CONCUR 2017 in Berlin, Germany and was co-chaired by Kirstin Peters and Simone Tini.
-The combined <a href="https://disat.uninsubria.it/~simone.tini/express_sos.html">EXPRESS/SOS 2018</a> workshop was co-located with CONCUR 2018 in Beijing, China and was co-chaired by Jorge Perez and Simone Tini.
-The combined <a href="https://express-sos2019.cs.ru.nl">EXPRESS/SOS 2019</a> workshop was co-located with CONCUR 2019 in Amsterdam, The Netherlands and was co-chaired by Jorge Perez and Jurriaan Rot.
-The combined <a href="https://express-sos2020.cs.ru.nl">EXPRESS/SOS 2020</a> workshop was co-located with CONCUR 2020 in Vienna, Austria, held on-line, and was co-chaired by Ornela Dardha and Jurriaan Rot.
+
+
+
+
+
+
+
 
 
 
@@ -44,10 +42,8 @@ In these years some journal special issues dedicated to the mentioned events hav
 A special issue of <a href="http://www.journals.elsevier.com/the-journal-of-logic-and-algebraic-programming/">Journal of Logic and Algebraic Programming</a> on Structural Operational Semantics appeared in 2004; a special issue of <a href="http://www.journals.elsevier.com/theoretical-computer-science/">Theoretical
 Computer Science</a> dedicated to SOS 2005 appeared in 2007, and a special issue of <a href="http://www.journals.elsevier.com/information-and-computation/">Information &amp; Computation</a> on Structural Operational Semantics inspired by SOS 2006-2007 appeared in 2009.
 Special issues devoted to EXPRESS 2010 and 2011 were both published in the journal Mathematical Structures in Computer Science.
-A special issue of the <a href="https://link.springer.com/journal/236">Acta Informatica</a> dedicated to
-EXPRESS/SOS 2016-2017 appeared in 2020.
-A special issue of <a href="https://www.sciencedirect.com/journal/information-and-computation/special-issue/10PDCWR6WLG">Information &amp; Computation</a> dedicated to EXPRESS/SOS 2018 appeared in 2019.
-<!--A special issue of <a href="http://www.journals.elsevier.com/information-and-computation/">Information &amp; Computation</a> dedicated to EXPRESS/SOS 2019-2020 is in preparation.-->
+
+
 
 
 
@@ -60,8 +56,14 @@ A special issue of <a href="https://www.sciencedirect.com/journal/information-an
 | [Express/Sos 2023](https://express-sos.github.io/old/express2023/index.html) | 18/09/2023 | Antwerp | Caltais - Mezzina | [EPTCS(387)](https://cgi.cse.unsw.edu.au/~eptcs/content.cgi?EXPRESS_SOS2023) | |
 | [Express/Sos 2022](https://express-sos2022.github.io/) | 12/09/2022 | Warsaw | Castiglioni - Mezzina | [EPTCS(368)](https://cgi.cse.unsw.edu.au/~eptcs/content.cgi?EXPSOS22) | [Information and Computation (297)](https://www.sciencedirect.com/journal/information-and-computation/special-issue/10K5Q031MWR) |
 | [Express/Sos 2021](https://icetcs.github.io/express-sos2021/) | 23/08/2021 | Paris | Castiglioni - Dharda | [EPTCS(339)](https://cgi.cse.unsw.edu.au/~eptcs/content.cgi?EXPRSOS2021) | |
-| [Express/Sos 2020](https://express-sos2020.cs.ru.nl) | 31/08/2020 | Vienna | Dharda - Rot | [EPTCS(322)](https://cgi.cse.unsw.edu.au/~eptcs/content.cgi?EXPRESSSOS2020) | |
-
+| [Express/Sos 2020](https://express-sos2020.cs.ru.nl) | 31/08/2020 | Vienna | Dharda - Rot | [EPTCS(322)](https://cgi.cse.unsw.edu.au/~eptcs/content.cgi?EXPRESSSOS2020) |[Information and Computation (302)](https://www.sciencedirect.com/science/article/pii/S0890540124000191)|
+| [Express/Sos 2019](https://express-sos2019.cs.ru.nl) | 26/08/2019 | Amsterdam | Perez - Rot | [EPTCS(300)](https://cgi.cse.unsw.edu.au/~eptcs/content.cgi?EXPRESSSOS2019) | |
+| [Express/Sos 2018](https://disat.uninsubria.it/~simone.tini/express_sos.html) | 3/09/2018 | Beijing | Perez - Tini | [EPTCS(276)](https://cgi.cse.unsw.edu.au/~eptcs/content.cgi?EXPRESSSOS2018) |[Information and Computation (281)](https://www.sciencedirect.com/special-issue/10PDCWR6WLG)|
+| [Express/Sos 2017](https://www.concur2017.tu-berlin.de/express_sos.html) | 4/09/2017 | Berlin | Peters - Tini | [EPTCS(255)](https://cgi.cse.unsw.edu.au/~eptcs/content.cgi?EXPRESSSOS2017) |[Acta Informatica (57-6)](https://link.springer.com/journal/236/volumes-and-issues/57-6)|
+| Express/Sos 2016 | 22/08/2016 | Quebec | Gebler - Peters| [EPTCS(222)](https://cgi.cse.unsw.edu.au/~eptcs/content.cgi?EXPRESSSOS2016) | |
+| Express/Sos 2015 | 31/08/2015 | Madrid | Crafa - Gebler| [EPTCS(190)](https://cgi.cse.unsw.edu.au/~eptcs/content.cgi?EXPRESSSOS2015) | |
+| Express/Sos 2014 | 01/09/2014 | Roma | Borgström, Crafa | [EPTCS(160)](https://cgi.cse.unsw.edu.au/~eptcs/content.cgi?EXPRESSSOS2014) | |
+| [Express/Sos 2013](http://www.win.tue.nl/expresssos2013/) | 26/08/2013 | Buenos Aires | Borgström, Luttik | [EPTCS(120)](https://cgi.cse.unsw.edu.au/~eptcs/content.cgi?EXPRESSSOS13) | |
 | [Express 2003](http://express03.epfl.ch/) | 02/09/2003 | Marseille | Corradini - Nestmann | [ENTCS(68)](https://www.sciencedirect.com/science/article/pii/S1571066105803585?via%3Dihub)  |  |
 | [Express 2002](http://express02.epfl.ch/) | 19/08/2002 | Brno | Nestmann -  Panangaden | [ENTCS(68)](https://www.sciencedirect.com/science/article/pii/S1571066105803585?via%3Dihub)  |  |
 | Express 2001 | 2001 | Aalborg | Aceto - Panangaden |  |  |
