@@ -4,7 +4,7 @@ permalink: /pastconf/
 title: Past events
 description: Links to past events
 nav: true
-nav_order: 1
+nav_order: 2
 ---
 
 | Year | Date(s) | Location | Chairs | Proceedings | Special Issue | 
