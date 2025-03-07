@@ -59,7 +59,7 @@ Since 2012, the Express and SOS communities have joined forces and organised a c
 - Uwe Nestmann
 - Jorge A. Pérez
 - Kirstin Peters
-- Jan Rot
+- Jurriaan Rot
 - Simone Tini
 - Claudio Mezzina
 
