@@ -2,17 +2,13 @@
 layout: page
 permalink: /
 title: Express/SOS
-description: Description of the Series of International Workshops Express and SOS
+description: Combined International Workshop on Expressiveness in Concurrency and on Structural Operational Semantics
 nav: false 
-announcements:
-  enabled: true # includes a list of news items
-  scrollable: false # adds a vertical scroll bar if there are more than 3 news items
-  limit: 1 # leave blank to include all the news in the `_news` folder
-
 ---
+## New
+[Express/SOS 2025](/conf/2025)
 
-
-# Scope and Topics
+## Scope and Topics
 The EXPRESS/SOS workshop series aims at bringing together researchers interested in the formal semantics of systems and programming concepts, and in the expressiveness of computational models.
 
 *Topics of interest for this combined workshop include:*
@@ -32,7 +28,7 @@ We especially welcome contributions bridging the gap between the above topics an
 * reversible computation
 * knowledge representation
 
-# History
+## History
 
 The Express workshops aim at bringing together researchers interested in the expressiveness of various formal systems and semantic notions, particularly in the field of concurrency.
 Their focus has	traditionally been on the comparison between programming concepts (such as concurrent, functional, imperative, logic and object-oriented programming) and between mathematical models of computation (such as process algebras, Petri nets, event structures, modal logics, and rewrite systems) on the basis of their relative expressive power.
@@ -49,7 +45,7 @@ Since 2012, the Express and SOS communities have joined forces and organised a c
 
 
 
-# Steering committee
+## Steering committee
 - Johannes Borgstrom
 - Ilaria Castellani
 - Valentina Castiglioni 
@@ -63,5 +59,3 @@ Since 2012, the Express and SOS communities have joined forces and organised a c
 - Jurriaan Rot
 - Simone Tini
 - Claudio Mezzina
-
-
