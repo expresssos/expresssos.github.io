@@ -3,13 +3,14 @@ layout: page
 permalink: /
 title: Express/SOS
 description: Description of the Series of International Workshops Express and SOS
-nav: false
-nav_order: 1
+nav: false 
+announcements:
+  enabled: true # includes a list of news items
+  scrollable: false # adds a vertical scroll bar if there are more than 3 news items
+  limit: 1 # leave blank to include all the news in the `_news` folder
+
 ---
 
-# *New*
-
-Express/SOS 2025
 
 # Scope and Topics
 The EXPRESS/SOS workshop series aims at bringing together researchers interested in the formal semantics of systems and programming concepts, and in the expressiveness of computational models.

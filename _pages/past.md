@@ -9,7 +9,7 @@ nav_order: 1
 
 | Year | Date(s) | Location | Chairs | Proceedings | Special Issue | 
 | --- | --- | -------- | ------ | -------- | ------ | 
-| [Express/Sos 2025](https://www.discotec.org/2025/satellite/ice) | June 20, 2025 | Aarhus | Bacci - Di Giusto | TBA | TBC |
+| [Express/Sos 2025](/news/2025/) | 25/09/2025 | Aarhus | Bacci - Di Giusto | TBA | TBC |
 | [Express/Sos 2024](https://express-sos.github.io/) | 09/09/2024 | Calgary | Caltais - Di Giusto | [EPTCS(412)](https://cgi.cse.unsw.edu.au/~eptcs/content.cgi?EXPRESSSOS2024) | TBA |
 | [Express/Sos 2023](https://express-sos.github.io/old/express2023/index.html) | 18/09/2023 | Antwerp | Caltais - Mezzina | [EPTCS(387)](https://cgi.cse.unsw.edu.au/~eptcs/content.cgi?EXPRESS_SOS2023) | |
 | [Express/Sos 2022](https://express-sos2022.github.io/) | 12/09/2022 | Warsaw | Castiglioni - Mezzina | [EPTCS(368)](https://cgi.cse.unsw.edu.au/~eptcs/content.cgi?EXPSOS22) | [Information and Computation (297)](https://www.sciencedirect.com/journal/information-and-computation/special-issue/10K5Q031MWR) |
