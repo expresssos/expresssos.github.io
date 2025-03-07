@@ -44,7 +44,7 @@ One of the specific goals of the SOS workshop series is to establish synergies b
 
 Since 2012, the Express and SOS communities have joined forces and organised a combined Express/SOS workshop. The past combined workshops were a success, so this year there will again be a combined workshop on the semantics of systems and programming concepts, and on the expressiveness of mathematical models of computation.
 
-2023 marked the 30th edition of EXPRESS and the 20th edition of SOS.
+2023 marked the 30th edition of Express and the 20th edition of SOS.
 
 
 
