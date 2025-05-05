@@ -11,7 +11,7 @@ nav_order: 2
 | --- | --- | -------- | ------ | -------- | ------ | 
 | [Express/Sos 2025](/conf/2025/) | 25/09/2025 | Aarhus | Bacci - Di Giusto | TBA | TBC |
 | [Express/Sos 2024](https://express-sos.github.io/) | 09/09/2024 | Calgary | Caltais - Di Giusto | [EPTCS(412)](https://cgi.cse.unsw.edu.au/~eptcs/content.cgi?EXPRESSSOS2024) | TBA |
-| [Express/Sos 2023](https://express-sos.github.io/old/express2023/index.html) | 18/09/2023 | Antwerp | Caltais - Mezzina | [EPTCS(387)](https://cgi.cse.unsw.edu.au/~eptcs/content.cgi?EXPRESS_SOS2023) | |
+| [Express/Sos 2023](https://express-sos.github.io/old/express2023) | 18/09/2023 | Antwerp | Caltais - Mezzina | [EPTCS(387)](https://cgi.cse.unsw.edu.au/~eptcs/content.cgi?EXPRESS_SOS2023) | |
 | [Express/Sos 2022](https://express-sos2022.github.io/) | 12/09/2022 | Warsaw | Castiglioni - Mezzina | [EPTCS(368)](https://cgi.cse.unsw.edu.au/~eptcs/content.cgi?EXPSOS22) | [Information and Computation (297)](https://www.sciencedirect.com/journal/information-and-computation/special-issue/10K5Q031MWR) |
 | [Express/Sos 2021](https://icetcs.github.io/express-sos2021/) | 23/08/2021 | Paris | Castiglioni - Dharda | [EPTCS(339)](https://cgi.cse.unsw.edu.au/~eptcs/content.cgi?EXPRSOS2021) | |
 | [Express/Sos 2020](https://express-sos2020.cs.ru.nl) | 31/08/2020 | Vienna | Dharda - Rot | [EPTCS(322)](https://cgi.cse.unsw.edu.au/~eptcs/content.cgi?EXPRESSSOS2020) |[Information and Computation (302)](https://www.sciencedirect.com/science/article/pii/S0890540124000191)|
