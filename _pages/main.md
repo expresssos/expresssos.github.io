@@ -6,7 +6,7 @@ description: Combined International Workshop on Expressiveness in Concurrency an
 nav: false 
 ---
 ## New
-[Express/SOS 2025](/conf/2025)
+[Express/SOS 2026](/conf/2026)
 
 ## Scope and Topics
 The EXPRESS/SOS workshop series aims at bringing together researchers interested in the formal semantics of systems and programming concepts, and in the expressiveness of computational models.
